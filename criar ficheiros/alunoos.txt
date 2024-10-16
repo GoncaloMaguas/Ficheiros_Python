@@ -1,0 +1,4 @@
+gg,gg,12
+2,3,4
+Ola,ola,ola
+Gonçalo,gg@gmail.com,LEIC

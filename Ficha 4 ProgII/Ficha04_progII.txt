@@ -1,0 +1,28 @@
+Ficha 04)
+1.
+a) Um subgrafo é um subconjunto de vértices e arestas de um grafo original que formam um grafo por si só, mantendo as mesmas relações de conectividade do grafo original.
+
+b) Um grafo bipartido é um grafo que pode ser dividido em dois conjuntos disjuntos de vértices, de forma que todas as arestas do grafo conectem vértices de conjuntos diferentes.
+
+c) Um grafo conexo é um grafo em que há um caminho entre quaisquer dois vértices. Um grafo desconexo é um grafo que consiste em dois ou mais componentes conexos distintos.
+
+d) Dois grafos são isomorfos se eles têm a mesma estrutura básica, ou seja, a mesma quantidade de vértices e arestas e a mesma distribuição de conectividade entre eles.
+
+e) Um grafo Hamiltoniano é um grafo que contém um ciclo que passa por todos os vértices do grafo uma vez.
+
+f) Um grafo Euleriano é um grafo que contém um ciclo que passa por todas as arestas do grafo uma vez.
+
+
+2.
+Um grafo que atende a essas condições é o grafo quadrado, nesse grafo cada vértice é adjacente a dois outros vértices e cada aresta é adjacente a duas outras.
+
+
+3.
+5 + 3 + 3 + 3 = 14
+14/2 = 7 arestas
+
+
+5.
+O algoritmo de busca em profundidade de um grafo é um algoritmo para percorrer um grafo de forma sistemática, visitando todos os vértices e arestas do grafo.
+O algoritmo funciona a partir de um vértice inicial, explorando o grafo o mais profundamente possível antes de retroceder e explorar outras áreas do grafo.
+O objetivo é visitar todos os vértices e arestas do grafo de forma ordenada e sem visitar o mesmo vértice mais de uma vez.

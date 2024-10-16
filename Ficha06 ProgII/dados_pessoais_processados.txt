@@ -1,0 +1,5 @@
+J.S. 25 Engenheiro Solteiro(a)
+M.S. 32 Médico Casado(a)
+P.C. 45 Advogado Divorciado(a)
+A.A. 28 Professor Casado(a)
+L.F. 37 Engenheiro Solteiro(a)
